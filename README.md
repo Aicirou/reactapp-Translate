@@ -1,3 +1,19 @@
+#IMP Links:
+
+</> google drive link of src:
+https://drive.google.com/drive/folders/1OMnvVeIlfth4GAQjx_Opzwi9dWsIK9k8?usp=sharing
+
+</> Github repo link of src:
+https://github.com/dydxo/reactapp-Translate
+
+>>
+Successfully deployed to the following URLs:
+
+    reactapp-translate.vercel.app
+    reactapp-translate-git-main-dydxo.vercel.app
+    reactapp-translate-dydxo.vercel.app
+<<
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
